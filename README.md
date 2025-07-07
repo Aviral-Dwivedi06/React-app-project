@@ -6,6 +6,18 @@ The website has a clean, responsive design, styled with Bootstrap and custom CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Add Task Section
+![Add Task](screenshots/add-task.png)
+
+### About Page
+![About Page](screenshots/about.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
