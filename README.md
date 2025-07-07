@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+ This project has been built using React, CSS, HTML, JavaScript and Visual Studio Code. It's a task management website where users can easily add and delete tasks. The tasks stay saved even if you refresh the page because of the use of localStorage.
+
+The website has a clean, responsive design, styled with Bootstrap and custom CSS.React Router DOM has also been used to set up simple navigation between pages. The project is structured with reusable components, making the code organized and scalable.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
