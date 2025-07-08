@@ -6,7 +6,7 @@ import { Footer } from "./MyComponents/Footer";
 import { useState, useEffect } from "react";
 import { AddTodo } from "./MyComponents/AddTodo";
 import About from "./MyComponents/About";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
 
@@ -50,7 +50,7 @@ function App() {
   return (
     <>
       <Router>
-        <Header title="Project SEDS" searchBar={true} />
+        <Header title="SmartTodo" searchBar={true} />
         
         <Routes>
           <Route exact path="/" element={
